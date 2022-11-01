@@ -1,7 +1,7 @@
 # SL3D: Self-supervised-Self-labeled 3D Recognition
 
 ## Introduction
-This repository holds the PyTorch implementation for SL3D framework described in the paper
+This repository holds the official implementation of SL3D framework described in the paper: [arXiv](https://arxiv.org/abs/2210.16810)
 
 There are a lot of promising results in 3D recognition, including classification, object detection, and semantic segmentation. However, many of these results rely on manually collecting densely annotated real-world 3D data, which is highly time-consuming and expensive to obtain, limiting the scalability of 3D recognition tasks. Thus in this paper, we study unsupervised 3D recognition and propose a Self-supervised-Self-Labeled 3D Recognition (SL3D) framework. SL3D simultaneously solves two coupled objectives, i.e., clustering and learning feature representation to generate pseudo labeled data for unsupervised 3D recognition. SL3D is a generic framework and can be applied to solve different 3D recognition tasks, including classification, object detection, and semantic segmentation.
 
