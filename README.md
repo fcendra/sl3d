@@ -1,6 +1,6 @@
 # SL3D: Self-supervised-Self-labeled 3D Recognition
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-gcc-universal-self-supervised-3d-scene/unsupervised-3d-semantic-segmentation-on)](https://paperswithcode.com/sota/unsupervised-3d-semantic-segmentation-on?p=sl3d-self-supervised-self-labeled-3d)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sl3d-self-supervised-self-labeled-3d/unsupervised-3d-semantic-segmentation-on)](https://paperswithcode.com/sota/unsupervised-3d-semantic-segmentation-on?p=sl3d-self-supervised-self-labeled-3d)
 
 ## Introduction
 This repository holds the official implementation of SL3D framework described in the paper: [arXiv](https://arxiv.org/abs/2210.16810)
