@@ -134,5 +134,15 @@ python scripts/eval.py --folder <time_stamp>
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
+## Citation
+```bibtex
+@article{cendra2022sl3d,
+    title     = {SL3D: Self-supervised-Self-labeled 3D Recognition},
+    author    = {Fernando Julio Cendra and Lan Ma and Jiajun Shen and Xiaojuan Qi},
+    journal   = {arXiv preprint arXiv:2210.16810},
+    year      = {2022}
+}
+```
+
 
 
